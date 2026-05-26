@@ -1,3 +1,4 @@
+# Create a program that reads the value of a purchase and calculates the amount to be paid in cash (with a 10% discount) and the amount to be paid in installments (with a 5% interest), showing both values to the user.
 
 compra = float(input("Digite o valor da compra: "))
 
